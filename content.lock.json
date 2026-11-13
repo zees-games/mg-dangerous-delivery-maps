@@ -1,13 +1,16 @@
 {
 	"format": 1,
 	"mirrors": [],
-	"origin": "https://dev.dotgames.org/content",
+	"origin": "https://dotgames.org/content",
 	"packs": [
 		{
 			"id": "gamemann/mg-dangerous-delivery-maps",
 			"into": "",
 			"kind": "pack",
-			"manifest_sha256": "43759f31d38124a714c65c828caa5741681ad25be1aa442bdbec0984f75baae0",
+			"manifest_sha256": "75a7466b4ada39d481a9a4e96e35bff5e1dc5c204b6b25780588a0bda9e23f55",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "43759f31d38124a714c65c828caa5741681ad25be1aa442bdbec0984f75baae0"
+			},
 			"optional": false,
 			"version": "1.0.0"
 		}
