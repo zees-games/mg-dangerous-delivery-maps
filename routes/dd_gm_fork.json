@@ -1,0 +1,174 @@
+{
+	"format": 1,
+	"kind": "route",
+	"id": "dd_gm_fork",
+	"name": "gm_fork",
+	"author": "gm_fork by Blueberry_pie (https://steamcommunity.com/sharedfiles/filedetails/?id=326332456), route generated from the map; removed on request: https://github.com/zees-games/mg-dangerous-delivery/issues",
+	"blurb": "The longest road through gm_fork.",
+	"level": 3,
+	"pay": 330,
+	"width": 10.0,
+	"cargo": "crates",
+	"zones": {
+		"map": {
+			"name": "gm_fork"
+		}
+	},
+	"segments": [
+		{
+			"length": 40.4,
+			"turn": -43.8,
+			"climb": 1.1,
+			"wall": "left",
+			"rail": "right",
+			"width": 6.0,
+			"zone": "map"
+		},
+		{
+			"length": 82.6,
+			"turn": 156.9,
+			"climb": -7.2,
+			"wall": "none",
+			"rail": "right",
+			"width": 6.0,
+			"zone": "map"
+		},
+		{
+			"length": 30.0,
+			"turn": 14.6,
+			"climb": 0.0,
+			"wall": "none",
+			"rail": "none",
+			"width": 10.0,
+			"zone": "map"
+		},
+		{
+			"length": 85.9,
+			"turn": -23.7,
+			"climb": -1.9,
+			"wall": "none",
+			"rail": "none",
+			"width": 10.0,
+			"zone": "map"
+		},
+		{
+			"length": 34.7,
+			"turn": -24.3,
+			"climb": 2.1,
+			"wall": "none",
+			"rail": "none",
+			"width": 12.0,
+			"zone": "map"
+		},
+		{
+			"length": 73.6,
+			"turn": 51.6,
+			"climb": -0.1,
+			"wall": "none",
+			"rail": "right",
+			"width": 10.0,
+			"zone": "map"
+		},
+		{
+			"length": 76.1,
+			"turn": 87.1,
+			"climb": -0.0,
+			"wall": "none",
+			"rail": "none",
+			"width": 6.0,
+			"zone": "map"
+		},
+		{
+			"length": 159.4,
+			"turn": -4.8,
+			"climb": 5.8,
+			"wall": "none",
+			"rail": "none",
+			"width": 12.0,
+			"zone": "map",
+			"checkpoint": true
+		},
+		{
+			"length": 37.5,
+			"turn": 6.8,
+			"climb": 5.2,
+			"wall": "none",
+			"rail": "none",
+			"width": 9.0,
+			"zone": "map"
+		},
+		{
+			"length": 74.1,
+			"turn": 38.4,
+			"climb": 10.4,
+			"wall": "none",
+			"rail": "none",
+			"width": 10.0,
+			"zone": "map"
+		},
+		{
+			"length": 41.6,
+			"turn": 54.9,
+			"climb": 5.8,
+			"wall": "none",
+			"rail": "none",
+			"width": 10.0,
+			"zone": "map"
+		},
+		{
+			"length": 76.8,
+			"turn": -78.2,
+			"climb": 0.1,
+			"wall": "none",
+			"rail": "none",
+			"width": 10.0,
+			"zone": "map"
+		},
+		{
+			"length": 64.3,
+			"turn": 41.0,
+			"climb": 0.1,
+			"wall": "none",
+			"rail": "none",
+			"width": 6.0,
+			"zone": "map"
+		},
+		{
+			"length": 62.7,
+			"turn": 44.7,
+			"climb": 8.8,
+			"wall": "none",
+			"rail": "right",
+			"width": 9.0,
+			"zone": "map",
+			"checkpoint": true
+		},
+		{
+			"length": 71.8,
+			"turn": -136.1,
+			"climb": 10.0,
+			"wall": "none",
+			"rail": "none",
+			"width": 6.0,
+			"zone": "map"
+		},
+		{
+			"length": 46.8,
+			"turn": 24.4,
+			"climb": 6.6,
+			"wall": "none",
+			"rail": "left",
+			"width": 10.0,
+			"zone": "map"
+		},
+		{
+			"length": 49.3,
+			"turn": -64.7,
+			"climb": 6.9,
+			"wall": "none",
+			"rail": "none",
+			"width": 10.0,
+			"zone": "map"
+		}
+	]
+}

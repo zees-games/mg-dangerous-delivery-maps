@@ -1,0 +1,33 @@
+{
+    "schema": 1,
+    "title": "Dangerous Delivery mountains",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/mg-dangerous-delivery"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "gm_fork",
+            "name": "Fork",
+            "scene": "routes/gm_fork.json",
+            "map_kind": "delivery"
+        },
+        {
+            "kind": "map",
+            "id": "gm_boreas",
+            "name": "Boreas",
+            "scene": "routes/gm_boreas.json",
+            "map_kind": "delivery"
+        },
+        {
+            "kind": "map",
+            "id": "rp_southside",
+            "name": "Southside",
+            "scene": "routes/rp_southside.json",
+            "map_kind": "delivery"
+        }
+    ]
+}

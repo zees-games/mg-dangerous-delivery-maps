@@ -1,0 +1,8 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+
+config/name="mg-dangerous-delivery-maps"
+config/description="Mountains for mg-dangerous-delivery, as JSON documents."
+config/features=PackedStringArray("4.7")
