@@ -1,5 +1,3 @@
-# mg-dangerous-delivery-maps
-
 Mountain roads for [mg-dangerous-delivery](https://github.com/zees-games/mg-dangerous-delivery). Each mountain has one road, generated from a community map. Only the road's shape is used; no geometry, textures or models of the original are shipped.
 
 ## Using it
