@@ -6,6 +6,10 @@ A server mounts the pack with `maps: add: gamemann/mg-dangerous-delivery-maps`. 
 
 The routes are made by `adapters/mg-dangerous-delivery/bsp_route.py` in dot-map-convert. The game's `headless_passable` test walks every road here.
 
+## Quality and ongoing improvement
+
+The maps, models, textures and sounds in this pack are being improved over time, and some of them are low quality today. Improvement is driven by the Nightly queue, a work queue where agents pick up items, and by a visual judge loop that views rendered frames and files defects until each asset passes repeated clean reviews. Known defects are filed there and fixed in later releases, and the screenshots here are regenerated as the assets improve.
+
 ## Credits
 
 | Map | Author | Source | Licence |
