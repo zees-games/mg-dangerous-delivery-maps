@@ -6,7 +6,7 @@ Mountain roads for [mg-dangerous-delivery](https://github.com/zees-games/mg-dang
 
 A server mounts the pack with `maps: add: gamemann/mg-dangerous-delivery-maps`. `routes/` holds each route (`dd_<map>.json`) and its map (`<map>.json`); the game sorts them by `kind`. `tools/publish.sh` publishes the pack.
 
-The routes are made by `adapters/mg-dangerous-delivery/bsp_route.py` in dot-map-convert. The game's `headless_passable` test walks every road here.
+The routes are made by `adapters/mg-dangerous-delivery/bsp_route.py` in gs-map-convert. The game's `headless_passable` test walks every road here.
 
 ## Quality and ongoing improvement
 
